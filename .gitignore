@@ -1,0 +1,6 @@
+*.o
+smacget
+smacdig
+smactty
+*~
+promemoria
